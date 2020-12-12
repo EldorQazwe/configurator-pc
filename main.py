@@ -41,4 +41,4 @@ sys.exit(app.exec())
 #test
 
 
-### ачо
+### изменил
